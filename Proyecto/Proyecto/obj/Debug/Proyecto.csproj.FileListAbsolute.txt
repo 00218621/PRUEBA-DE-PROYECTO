@@ -9,3 +9,4 @@ C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\P
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.exe
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal1.resources
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.frmInicioSesion.resources
