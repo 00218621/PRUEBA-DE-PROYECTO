@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal1.resources
