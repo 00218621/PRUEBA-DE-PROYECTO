@@ -31,7 +31,66 @@ namespace Proyecto
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmInicioSesion));
+            this.lblUsuario = new System.Windows.Forms.Label();
+            this.lblContraseña = new System.Windows.Forms.Label();
+            this.txtUsuario = new System.Windows.Forms.TextBox();
+            this.txtContraseña = new System.Windows.Forms.TextBox();
+            this.btnContinuar = new System.Windows.Forms.Button();
             this.SuspendLayout();
+            // 
+            // lblUsuario
+            // 
+            this.lblUsuario.BackColor = System.Drawing.Color.Silver;
+            this.lblUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.lblUsuario.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblUsuario.Image = global::Proyecto.Properties.Resources.Foto_de_David;
+            this.lblUsuario.Location = new System.Drawing.Point(131, 76);
+            this.lblUsuario.Name = "lblUsuario";
+            this.lblUsuario.Size = new System.Drawing.Size(97, 23);
+            this.lblUsuario.TabIndex = 0;
+            this.lblUsuario.Text = "USUARIO";
+            // 
+            // lblContraseña
+            // 
+            this.lblContraseña.BackColor = System.Drawing.Color.Silver;
+            this.lblContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.lblContraseña.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.lblContraseña.Image = global::Proyecto.Properties.Resources.Foto_de_David;
+            this.lblContraseña.Location = new System.Drawing.Point(131, 214);
+            this.lblContraseña.Name = "lblContraseña";
+            this.lblContraseña.Size = new System.Drawing.Size(138, 23);
+            this.lblContraseña.TabIndex = 1;
+            this.lblContraseña.Text = "CONTRASEÑA";
+            // 
+            // txtUsuario
+            // 
+            this.txtUsuario.Location = new System.Drawing.Point(92, 134);
+            this.txtUsuario.Multiline = true;
+            this.txtUsuario.Name = "txtUsuario";
+            this.txtUsuario.Size = new System.Drawing.Size(229, 25);
+            this.txtUsuario.TabIndex = 2;
+            // 
+            // txtContraseña
+            // 
+            this.txtContraseña.Location = new System.Drawing.Point(92, 281);
+            this.txtContraseña.Multiline = true;
+            this.txtContraseña.Name = "txtContraseña";
+            this.txtContraseña.Size = new System.Drawing.Size(229, 23);
+            this.txtContraseña.TabIndex = 3;
+            // 
+            // btnContinuar
+            // 
+            this.btnContinuar.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnContinuar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
+            this.btnContinuar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnContinuar.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
+            this.btnContinuar.Location = new System.Drawing.Point(265, 373);
+            this.btnContinuar.Name = "btnContinuar";
+            this.btnContinuar.Size = new System.Drawing.Size(149, 55);
+            this.btnContinuar.TabIndex = 4;
+            this.btnContinuar.Text = "CONTINUAR";
+            this.btnContinuar.UseVisualStyleBackColor = false;
             // 
             // frmInicioSesion
             // 
@@ -39,10 +98,28 @@ namespace Proyecto
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Proyecto.Properties.Resources.Foto_de_David;
             this.ClientSize = new System.Drawing.Size(454, 450);
+            this.Controls.Add(this.btnContinuar);
+            this.Controls.Add(this.txtContraseña);
+            this.Controls.Add(this.txtUsuario);
+            this.Controls.Add(this.lblContraseña);
+            this.Controls.Add(this.lblUsuario);
+            this.Icon = ((System.Drawing.Icon) (resources.GetObject("$this.Icon")));
             this.Name = "frmInicioSesion";
-            this.Text = "frmInicioSesion";
+            this.Text = "Inicio de Sesión";
             this.ResumeLayout(false);
+            this.PerformLayout();
         }
+
+        private System.Windows.Forms.Button btnContinuar;
+
+        private System.Windows.Forms.Button button1;
+
+        private System.Windows.Forms.TextBox txtUsuario;
+        private System.Windows.Forms.TextBox txtContraseña;
+
+        private System.Windows.Forms.Label lblContraseña;
+
+        private System.Windows.Forms.Label lblUsuario;
 
         #endregion
     }
