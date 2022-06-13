@@ -16,5 +16,13 @@ namespace Proyecto
         {
             InitializeComponent();
         }
+
+        private void btnSesion_Click(object sender, EventArgs e)
+        {
+            using (frmInicioSesion inicio=new frmInicioSesion())
+            {
+                DialogResult resultado = inicio.ShowDialog();
+            }
+        }
     }
 }
