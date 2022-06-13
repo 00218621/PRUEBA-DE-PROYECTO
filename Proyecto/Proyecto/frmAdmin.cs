@@ -1,3 +1,4 @@
+using System;
 using System.Windows.Forms;
 
 namespace Proyecto
@@ -7,6 +8,11 @@ namespace Proyecto
         public frmAdmin()
         {
             InitializeComponent();
+        }
+
+        private void tabPage3_Click(object sender, EventArgs e)
+        {
+            throw new System.NotImplementedException();
         }
     }
 }
