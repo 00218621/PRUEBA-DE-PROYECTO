@@ -1,16 +1,24 @@
+<<<<<<< HEAD
+=======
 using System;
 using System.Drawing;
+>>>>>>> David
 using System.Windows.Forms;
 
 namespace Proyecto
 {
     public partial class frmUser : Form
+<<<<<<< HEAD
+=======
     
+>>>>>>> David
     {
         public frmUser()
         {
             InitializeComponent();
         }
+<<<<<<< HEAD
+=======
         private Usuario usu { get; set; }
         
         public frmUser(Usuario usu)
@@ -56,5 +64,6 @@ namespace Proyecto
                 btnInsertar.Visible = false;
             }
         }
+>>>>>>> David
     }
 }

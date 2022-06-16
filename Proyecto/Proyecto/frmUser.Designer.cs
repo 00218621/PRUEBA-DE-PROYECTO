@@ -215,6 +215,8 @@ namespace Proyecto
             this.PerformLayout();
         }
 
+<<<<<<< HEAD
+=======
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button button1;
 
@@ -235,6 +237,7 @@ namespace Proyecto
         private System.Windows.Forms.TabPage tabModificar;
         private System.Windows.Forms.TabPage tabEliminar;
 
+>>>>>>> David
         #endregion
     }
 }
