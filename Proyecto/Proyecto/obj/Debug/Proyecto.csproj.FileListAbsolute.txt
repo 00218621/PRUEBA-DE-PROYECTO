@@ -9,34 +9,4 @@ C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\P
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.exe
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal1.resources
-<<<<<<< HEAD
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.exe
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csprojResolveAssemblyReference.cache
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmInicioSesion.resources
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal1.resources
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.exe
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
-C:\Users\Cesar\Desktop\POO\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmAdmin.resources
-=======
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\Proyecto\Proyecto\obj\Debug\Proyecto.frmInicioSesion.resources
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.exe
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmInicioSesion.resources
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal1.resources
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.exe
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
-<<<<<<< HEAD
-C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmUser.resources
-=======
->>>>>>> refs/remotes/origin/main
->>>>>>> 4fd97d8a4deb1313ea6c69c415a35e40d1116ea1
