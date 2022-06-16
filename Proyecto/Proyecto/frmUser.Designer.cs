@@ -215,6 +215,29 @@ namespace Proyecto
             this.PerformLayout();
         }
 
+<<<<<<< HEAD
+=======
+        private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.Button button1;
+
+        private System.Windows.Forms.Button btnElim;
+
+        private System.Windows.Forms.TabPage tabActualizar;
+        private System.Windows.Forms.TabPage tabInsertar;
+        private System.Windows.Forms.Button btnAgregar;
+
+        private System.Windows.Forms.MenuStrip menuStrip1;
+        private System.Windows.Forms.ToolStripMenuItem btnCambio;
+        private System.Windows.Forms.ToolStripMenuItem btnModificar;
+        private System.Windows.Forms.ToolStripMenuItem btnEliminar;
+        private System.Windows.Forms.ToolStripMenuItem btnActualizar;
+        private System.Windows.Forms.ToolStripMenuItem btnInsertar;
+
+        private System.Windows.Forms.TabControl tabPrincipal;
+        private System.Windows.Forms.TabPage tabModificar;
+        private System.Windows.Forms.TabPage tabEliminar;
+
+>>>>>>> David
         #endregion
     }
 }

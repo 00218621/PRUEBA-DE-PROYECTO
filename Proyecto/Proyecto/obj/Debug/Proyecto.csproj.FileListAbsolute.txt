@@ -22,3 +22,4 @@ C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\P
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.exe
 C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmUser.resources
