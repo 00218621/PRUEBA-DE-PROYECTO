@@ -1,9 +1,8 @@
-namespace Proyecto
+namespace Proyecto;
+
+public class Usuario
 {
-    public class Usuario
-    {
-        public string nombre { get; set; }
-        public string telefono { get; set; }
-        public string rol { get; set; }
-    }
+    public string user { get; set; }
+            public string contraseña { get; set; }
+            public string rol { get; set; }
 }
