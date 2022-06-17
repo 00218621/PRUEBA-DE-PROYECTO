@@ -20,3 +20,15 @@ C:\Users\Cesar\Desktop\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\P
 C:\Users\Cesar\Desktop\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.Cache
 C:\Users\Cesar\Desktop\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.exe
 C:\Users\Cesar\Desktop\Proyecto\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmInicioSesion.resources
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.frmPrincipal1.resources
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.Properties.Resources.resources
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.exe
+C:\Users\user\Desktop\DAVID\PRUEBA\ProyectoPOO^BDD\PRUEBA-DE-PROYECTO\Proyecto\Proyecto\obj\Debug\Proyecto.pdb
