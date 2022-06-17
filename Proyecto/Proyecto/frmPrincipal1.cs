@@ -64,4 +64,5 @@ namespace Proyecto
             dgvAsistente.DataSource = ActividadDAO.ObtenerTodos();
         }
     }
+    
 }

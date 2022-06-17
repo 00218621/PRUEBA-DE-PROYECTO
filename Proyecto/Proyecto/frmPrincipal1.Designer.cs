@@ -88,22 +88,23 @@
             // btnSesion
             // 
             this.btnSesion.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (0)))), ((int) (((byte) (64)))), ((int) (((byte) (64)))));
-            this.btnSesion.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.btnSesion.Font = new System.Drawing.Font("Microsoft YaHei UI", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnSesion.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnSesion.Location = new System.Drawing.Point(258, 254);
+            this.btnSesion.Location = new System.Drawing.Point(329, 289);
             this.btnSesion.Name = "btnSesion";
-            this.btnSesion.Size = new System.Drawing.Size(102, 25);
+            this.btnSesion.Size = new System.Drawing.Size(147, 34);
             this.btnSesion.TabIndex = 6;
             this.btnSesion.Text = "INICIAR SESIÓN\r\n\r\n\r\n\r\n";
+            this.btnSesion.TextAlign = System.Drawing.ContentAlignment.BottomCenter;
             this.btnSesion.UseVisualStyleBackColor = false;
             this.btnSesion.Click += new System.EventHandler(this.btnSesion_Click);
             // 
             // lblAgregado
             // 
-            this.lblAgregado.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (124)))), ((int) (((byte) (122)))), ((int) (((byte) (133)))));
-            this.lblAgregado.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.lblAgregado.BackColor = System.Drawing.Color.Transparent;
+            this.lblAgregado.Font = new System.Drawing.Font("Microsoft YaHei", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.lblAgregado.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblAgregado.Location = new System.Drawing.Point(226, 295);
+            this.lblAgregado.Location = new System.Drawing.Point(317, 350);
             this.lblAgregado.Name = "lblAgregado";
             this.lblAgregado.Size = new System.Drawing.Size(172, 17);
             this.lblAgregado.TabIndex = 8;
@@ -111,10 +112,10 @@
             // 
             // lblTel
             // 
-            this.lblTel.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (124)))), ((int) (((byte) (122)))), ((int) (((byte) (133)))));
+            this.lblTel.BackColor = System.Drawing.Color.Transparent;
             this.lblTel.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.lblTel.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblTel.Location = new System.Drawing.Point(1, 484);
+            this.lblTel.Location = new System.Drawing.Point(12, 473);
             this.lblTel.Name = "lblTel";
             this.lblTel.Size = new System.Drawing.Size(109, 17);
             this.lblTel.TabIndex = 10;
@@ -124,7 +125,7 @@
             // 
             this.picHarry.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (124)))), ((int) (((byte) (122)))), ((int) (((byte) (133)))));
             this.picHarry.Image = global::Proyecto.Properties.Resources._967a9262e78069eb2d36c7aae7f0dd81;
-            this.picHarry.Location = new System.Drawing.Point(141, 315);
+            this.picHarry.Location = new System.Drawing.Point(244, 370);
             this.picHarry.Name = "picHarry";
             this.picHarry.Size = new System.Drawing.Size(100, 104);
             this.picHarry.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -134,7 +135,7 @@
             // picWar
             // 
             this.picWar.Image = global::Proyecto.Properties.Resources.StarWar;
-            this.picWar.Location = new System.Drawing.Point(273, 315);
+            this.picWar.Location = new System.Drawing.Point(368, 370);
             this.picWar.Name = "picWar";
             this.picWar.Size = new System.Drawing.Size(87, 104);
             this.picWar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -145,7 +146,7 @@
             // 
             this.picPrincipito.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (124)))), ((int) (((byte) (122)))), ((int) (((byte) (133)))));
             this.picPrincipito.Image = global::Proyecto.Properties.Resources.b1d50b4aca61d420efddd9302588baf4;
-            this.picPrincipito.Location = new System.Drawing.Point(390, 315);
+            this.picPrincipito.Location = new System.Drawing.Point(483, 370);
             this.picPrincipito.Name = "picPrincipito";
             this.picPrincipito.Size = new System.Drawing.Size(87, 104);
             this.picPrincipito.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -154,10 +155,11 @@
             // 
             // btnPreguntas
             // 
-            this.btnPreguntas.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (124)))), ((int) (((byte) (122)))), ((int) (((byte) (133)))));
+            this.btnPreguntas.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnPreguntas.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnPreguntas.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnPreguntas.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnPreguntas.Location = new System.Drawing.Point(455, 451);
+            this.btnPreguntas.Location = new System.Drawing.Point(637, 491);
             this.btnPreguntas.Name = "btnPreguntas";
             this.btnPreguntas.Size = new System.Drawing.Size(141, 23);
             this.btnPreguntas.TabIndex = 15;
@@ -167,10 +169,11 @@
             // 
             // btnActividades
             // 
-            this.btnActividades.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (124)))), ((int) (((byte) (122)))), ((int) (((byte) (133)))));
+            this.btnActividades.BackColor = System.Drawing.Color.DarkSlateGray;
+            this.btnActividades.FlatStyle = System.Windows.Forms.FlatStyle.Popup;
             this.btnActividades.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnActividades.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.btnActividades.Location = new System.Drawing.Point(417, 480);
+            this.btnActividades.Location = new System.Drawing.Point(598, 520);
             this.btnActividades.Name = "btnActividades";
             this.btnActividades.Size = new System.Drawing.Size(179, 21);
             this.btnActividades.TabIndex = 16;
@@ -180,10 +183,10 @@
             // 
             // lblDire
             // 
-            this.lblDire.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (124)))), ((int) (((byte) (122)))), ((int) (((byte) (133)))));
+            this.lblDire.BackColor = System.Drawing.Color.Transparent;
             this.lblDire.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.lblDire.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblDire.Location = new System.Drawing.Point(1, 439);
+            this.lblDire.Location = new System.Drawing.Point(12, 500);
             this.lblDire.Name = "lblDire";
             this.lblDire.Size = new System.Drawing.Size(308, 41);
             this.lblDire.TabIndex = 17;
@@ -200,7 +203,7 @@
             this.tabInicio.Location = new System.Drawing.Point(1, 36);
             this.tabInicio.Name = "tabInicio";
             this.tabInicio.SelectedIndex = 0;
-            this.tabInicio.Size = new System.Drawing.Size(594, 212);
+            this.tabInicio.Size = new System.Drawing.Size(780, 228);
             this.tabInicio.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
             this.tabInicio.TabIndex = 1;
             this.tabInicio.TabStop = false;
@@ -215,7 +218,7 @@
             this.tabSomos.Location = new System.Drawing.Point(4, 28);
             this.tabSomos.Name = "tabSomos";
             this.tabSomos.Padding = new System.Windows.Forms.Padding(3);
-            this.tabSomos.Size = new System.Drawing.Size(586, 180);
+            this.tabSomos.Size = new System.Drawing.Size(772, 196);
             this.tabSomos.TabIndex = 0;
             this.tabSomos.Text = "¿QUIÉNES SOMOS?";
             // 
@@ -231,7 +234,7 @@
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 1;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 100F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(590, 180);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(776, 196);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // lblSomos
@@ -240,7 +243,7 @@
             this.lblSomos.Font = new System.Drawing.Font("Microsoft Sans Serif", 14.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.lblSomos.Location = new System.Drawing.Point(3, 0);
             this.lblSomos.Name = "lblSomos";
-            this.lblSomos.Size = new System.Drawing.Size(289, 180);
+            this.lblSomos.Size = new System.Drawing.Size(382, 196);
             this.lblSomos.TabIndex = 0;
             this.lblSomos.Text = "Somos la biblioteca más moderna de toda la historia de El Salvador";
             this.lblSomos.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -249,9 +252,9 @@
             // 
             this.picSomos.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
             this.picSomos.Image = global::Proyecto.Properties.Resources.SAD1;
-            this.picSomos.Location = new System.Drawing.Point(298, 3);
+            this.picSomos.Location = new System.Drawing.Point(391, 3);
             this.picSomos.Name = "picSomos";
-            this.picSomos.Size = new System.Drawing.Size(289, 174);
+            this.picSomos.Size = new System.Drawing.Size(382, 190);
             this.picSomos.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picSomos.TabIndex = 1;
             this.picSomos.TabStop = false;
@@ -263,7 +266,7 @@
             this.tabMyV.Location = new System.Drawing.Point(4, 28);
             this.tabMyV.Name = "tabMyV";
             this.tabMyV.Padding = new System.Windows.Forms.Padding(3);
-            this.tabMyV.Size = new System.Drawing.Size(586, 180);
+            this.tabMyV.Size = new System.Drawing.Size(772, 196);
             this.tabMyV.TabIndex = 1;
             this.tabMyV.Text = "MISIÓN Y VISIÓN";
             this.tabMyV.UseVisualStyleBackColor = true;
@@ -284,7 +287,7 @@
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
             this.tableLayoutPanel2.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 25F));
-            this.tableLayoutPanel2.Size = new System.Drawing.Size(590, 184);
+            this.tableLayoutPanel2.Size = new System.Drawing.Size(776, 200);
             this.tableLayoutPanel2.TabIndex = 0;
             // 
             // lblVision
@@ -292,9 +295,9 @@
             this.lblVision.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
             this.lblVision.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (192)))), ((int) (((byte) (192)))), ((int) (((byte) (255)))));
             this.lblVision.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblVision.Location = new System.Drawing.Point(3, 138);
+            this.lblVision.Location = new System.Drawing.Point(3, 150);
             this.lblVision.Name = "lblVision";
-            this.lblVision.Size = new System.Drawing.Size(584, 46);
+            this.lblVision.Size = new System.Drawing.Size(770, 50);
             this.lblVision.TabIndex = 1;
             this.lblVision.Text = "Mejorar la educación";
             this.lblVision.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -304,9 +307,9 @@
             this.lblMision.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
             this.lblMision.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (192)))), ((int) (((byte) (192)))), ((int) (((byte) (255)))));
             this.lblMision.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblMision.Location = new System.Drawing.Point(3, 46);
+            this.lblMision.Location = new System.Drawing.Point(3, 50);
             this.lblMision.Name = "lblMision";
-            this.lblMision.Size = new System.Drawing.Size(584, 46);
+            this.lblMision.Size = new System.Drawing.Size(770, 50);
             this.lblMision.TabIndex = 0;
             this.lblMision.Text = "Ser la mejor biblioteca";
             this.lblMision.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -318,7 +321,7 @@
             this.lblM.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.lblM.Location = new System.Drawing.Point(3, 0);
             this.lblM.Name = "lblM";
-            this.lblM.Size = new System.Drawing.Size(584, 46);
+            this.lblM.Size = new System.Drawing.Size(770, 50);
             this.lblM.TabIndex = 2;
             this.lblM.Text = "MISIÓN";
             this.lblM.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -328,9 +331,9 @@
             this.lblV.Anchor = ((System.Windows.Forms.AnchorStyles) ((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) | System.Windows.Forms.AnchorStyles.Left) | System.Windows.Forms.AnchorStyles.Right)));
             this.lblV.BackColor = System.Drawing.Color.Orange;
             this.lblV.Font = new System.Drawing.Font("Microsoft Sans Serif", 11.25F, ((System.Drawing.FontStyle) ((System.Drawing.FontStyle.Bold | System.Drawing.FontStyle.Underline))), System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblV.Location = new System.Drawing.Point(3, 92);
+            this.lblV.Location = new System.Drawing.Point(3, 100);
             this.lblV.Name = "lblV";
-            this.lblV.Size = new System.Drawing.Size(584, 46);
+            this.lblV.Size = new System.Drawing.Size(770, 50);
             this.lblV.TabIndex = 3;
             this.lblV.Text = "VISIÓN";
             this.lblV.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
@@ -340,7 +343,7 @@
             this.tabRevista.Location = new System.Drawing.Point(4, 28);
             this.tabRevista.Name = "tabRevista";
             this.tabRevista.Padding = new System.Windows.Forms.Padding(3);
-            this.tabRevista.Size = new System.Drawing.Size(586, 180);
+            this.tabRevista.Size = new System.Drawing.Size(772, 196);
             this.tabRevista.TabIndex = 2;
             this.tabRevista.Text = "REVISTAS";
             this.tabRevista.UseVisualStyleBackColor = true;
@@ -351,7 +354,7 @@
             this.tabPregunta.Location = new System.Drawing.Point(4, 28);
             this.tabPregunta.Name = "tabPregunta";
             this.tabPregunta.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPregunta.Size = new System.Drawing.Size(586, 180);
+            this.tabPregunta.Size = new System.Drawing.Size(772, 196);
             this.tabPregunta.TabIndex = 4;
             this.tabPregunta.Text = "PREGUNTAS";
             this.tabPregunta.UseVisualStyleBackColor = true;
@@ -470,7 +473,7 @@
             this.tabActividades.Controls.Add(this.dgvAsistente);
             this.tabActividades.Location = new System.Drawing.Point(4, 28);
             this.tabActividades.Name = "tabActividades";
-            this.tabActividades.Size = new System.Drawing.Size(586, 180);
+            this.tabActividades.Size = new System.Drawing.Size(772, 196);
             this.tabActividades.TabIndex = 5;
             this.tabActividades.Text = "ACTIVIDADES";
             this.tabActividades.UseVisualStyleBackColor = true;
@@ -481,7 +484,7 @@
             this.dgvAsistente.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgvAsistente.Location = new System.Drawing.Point(3, 2);
             this.dgvAsistente.Name = "dgvAsistente";
-            this.dgvAsistente.Size = new System.Drawing.Size(582, 177);
+            this.dgvAsistente.Size = new System.Drawing.Size(768, 193);
             this.dgvAsistente.TabIndex = 1;
             this.dgvAsistente.TabStop = false;
             // 
@@ -490,7 +493,7 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {this.btnSomos, this.btnMisionVision, this.btnRevista, this.btnInstagram, this.btnFacebook});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(598, 24);
+            this.menuStrip1.Size = new System.Drawing.Size(781, 24);
             this.menuStrip1.TabIndex = 22;
             this.menuStrip1.Text = "menuStrip1";
             // 
@@ -543,7 +546,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int) (((byte) (49)))), ((int) (((byte) (57)))), ((int) (((byte) (69)))));
-            this.ClientSize = new System.Drawing.Size(598, 502);
+            this.ClientSize = new System.Drawing.Size(781, 553);
             this.Controls.Add(this.tabInicio);
             this.Controls.Add(this.lblDire);
             this.Controls.Add(this.btnActividades);
