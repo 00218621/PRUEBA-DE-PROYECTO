@@ -41,11 +41,10 @@ namespace Proyecto
             // 
             // lblUsuario
             // 
-            this.lblUsuario.BackColor = System.Drawing.Color.Silver;
-            this.lblUsuario.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
-            this.lblUsuario.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblUsuario.Image = global::Proyecto.Properties.Resources.Foto_de_David;
-            this.lblUsuario.Location = new System.Drawing.Point(131, 76);
+            this.lblUsuario.BackColor = System.Drawing.Color.Transparent;
+            this.lblUsuario.Font = new System.Drawing.Font("Microsoft YaHei UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.lblUsuario.ForeColor = System.Drawing.SystemColors.ControlLightLight;
+            this.lblUsuario.Location = new System.Drawing.Point(80, 28);
             this.lblUsuario.Name = "lblUsuario";
             this.lblUsuario.Size = new System.Drawing.Size(97, 23);
             this.lblUsuario.TabIndex = 0;
@@ -53,11 +52,10 @@ namespace Proyecto
             // 
             // lblContraseña
             // 
-            this.lblContraseña.BackColor = System.Drawing.Color.Silver;
-            this.lblContraseña.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
+            this.lblContraseña.BackColor = System.Drawing.Color.Transparent;
+            this.lblContraseña.Font = new System.Drawing.Font("Microsoft YaHei", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.lblContraseña.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.lblContraseña.Image = global::Proyecto.Properties.Resources.Foto_de_David;
-            this.lblContraseña.Location = new System.Drawing.Point(131, 214);
+            this.lblContraseña.Location = new System.Drawing.Point(80, 130);
             this.lblContraseña.Name = "lblContraseña";
             this.lblContraseña.Size = new System.Drawing.Size(138, 23);
             this.lblContraseña.TabIndex = 1;
@@ -65,29 +63,29 @@ namespace Proyecto
             // 
             // txtUsuario
             // 
-            this.txtUsuario.Location = new System.Drawing.Point(92, 134);
+            this.txtUsuario.Location = new System.Drawing.Point(80, 54);
             this.txtUsuario.Multiline = true;
             this.txtUsuario.Name = "txtUsuario";
-            this.txtUsuario.Size = new System.Drawing.Size(229, 25);
+            this.txtUsuario.Size = new System.Drawing.Size(285, 25);
             this.txtUsuario.TabIndex = 2;
             // 
             // txtContraseña
             // 
-            this.txtContraseña.Location = new System.Drawing.Point(92, 281);
+            this.txtContraseña.Location = new System.Drawing.Point(80, 156);
             this.txtContraseña.Multiline = true;
             this.txtContraseña.Name = "txtContraseña";
-            this.txtContraseña.Size = new System.Drawing.Size(229, 23);
+            this.txtContraseña.Size = new System.Drawing.Size(285, 23);
             this.txtContraseña.TabIndex = 3;
             // 
             // btnContinuar
             // 
-            this.btnContinuar.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnContinuar.BackColor = System.Drawing.Color.LightSlateGray;
             this.btnContinuar.BackgroundImageLayout = System.Windows.Forms.ImageLayout.None;
             this.btnContinuar.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte) (0)));
             this.btnContinuar.ForeColor = System.Drawing.SystemColors.InactiveCaptionText;
-            this.btnContinuar.Location = new System.Drawing.Point(265, 373);
+            this.btnContinuar.Location = new System.Drawing.Point(80, 267);
             this.btnContinuar.Name = "btnContinuar";
-            this.btnContinuar.Size = new System.Drawing.Size(149, 55);
+            this.btnContinuar.Size = new System.Drawing.Size(112, 31);
             this.btnContinuar.TabIndex = 4;
             this.btnContinuar.Text = "CONTINUAR";
             this.btnContinuar.UseVisualStyleBackColor = false;
@@ -97,13 +95,16 @@ namespace Proyecto
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImage = global::Proyecto.Properties.Resources.Foto_de_David;
-            this.ClientSize = new System.Drawing.Size(454, 450);
+            this.ClientSize = new System.Drawing.Size(443, 323);
             this.Controls.Add(this.btnContinuar);
             this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.txtUsuario);
             this.Controls.Add(this.lblContraseña);
             this.Controls.Add(this.lblUsuario);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
             this.Icon = ((System.Drawing.Icon) (resources.GetObject("$this.Icon")));
+            this.MaximizeBox = false;
+            this.MinimizeBox = false;
             this.Name = "frmInicioSesion";
             this.Text = "Inicio de Sesión";
             this.ResumeLayout(false);
