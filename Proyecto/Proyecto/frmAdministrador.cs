@@ -1,21 +1,21 @@
+using System;
 using System.Windows.Forms;
 
 namespace Proyecto
 {
-    public partial class frmAdministrador : Form
+    public partial class FrmAdministrador: Form
     {
-        public frmAdministrador()
+        public FrmAdministrador()
         {
             InitializeComponent();
         }
         private Usuario usu { get; set; }
         
-        public frmAdministrador(Usuario usu)
+        public FrmAdministrador(Usuario usu)
         {
             InitializeComponent();
             this.usu = usu;
            
         }
-        
     }
 }
