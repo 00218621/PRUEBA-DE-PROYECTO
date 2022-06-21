@@ -20,7 +20,7 @@ namespace Proyecto
             {
                 MessageBox.Show("Bienvenido!", "BINAES",
                     MessageBoxButtons.OK, MessageBoxIcon.Information);
-                frmAdministrador ventana = new frmAdministrador(usu);
+                FrmAdministrador ventana = new FrmAdministrador(usu);
                 ventana.Show();
                 this.Hide();
             }
